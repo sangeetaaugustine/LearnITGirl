@@ -10,7 +10,7 @@ if door == "1":
     print("2.Scream and run")
     print(f"Are you sure that was right {myName} ?")
     answer = input(">")
-    print("Go on be happy")
+    print(f"Go on, after all you chose {answer}")
     vampire = input(">")
 
     if vampire == "1":
@@ -26,9 +26,9 @@ elif door == "2":
     print("1.Smile and nod")
     print("2.Scream and run")
     coffin = input(">")
-    print ( f"Are you sure that was right {myName} ?")
-    answer = input (">")
-    print("Go on be happy.")
+    print(f"Are you sure that was right {myName} ?")
+    answer = input(">")
+    print(f"Go on be happy, after all you chose {answer}")
 
     if coffin == "1":
         print(f"Congratulations {myName}, you found a new friend!")
