@@ -8,4 +8,4 @@ This is week 3 and I have started doing some Python exercises and have begun get
 Working in an IDE is different from learning a language using an online editor.
 I needed to understand **IDE**.
 Before I could begin coding in PyCharm I had to configure an set up Python 3.7 as the intepretor.
-
+Learning f strings and variables. Python being an object oriented language does not require you to declare variables before using them. You declare and initialize *at the same time*. 
